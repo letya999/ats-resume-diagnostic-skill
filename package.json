@@ -1,0 +1,26 @@
+{
+  "name": "ats-resume-diagnostic",
+  "version": "1.0.0",
+  "description": "Professional ATS Resume Diagnostic Open Skill",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letya999/ats-resume-diagnostic-skill.git"
+  },
+  "keywords": [
+    "open-skills",
+    "ats",
+    "resume",
+    "diagnostic",
+    "ai-agent",
+    "claude-code",
+    "gemini-cli"
+  ],
+  "author": "Artem Letyushev",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "ats-resume-diagnostic.skill",
+    "README.md",
+    "examples/"
+  ]
+}
