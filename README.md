@@ -37,7 +37,7 @@ gemini skills install ./ats-resume-diagnostic.skill
 
 ### 3. Через NPM (для автоматизации)
 ```bash
-npm install github:username/ats-resume-diagnostic
+npm install github:letya999/ats-resume-diagnostic-skill
 ```
 
 ## Что вы получите на выходе
