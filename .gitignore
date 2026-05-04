@@ -14,3 +14,7 @@ Thumbs.db
 # Package artifacts
 *.skill
 !ats-resume-diagnostic.skill
+
+# Serena
+.serena/
+
